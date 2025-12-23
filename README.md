@@ -1,4 +1,4 @@
-# DocuChat 
+# AI Document Assistant
 
 ## Project Setup Guide
 
