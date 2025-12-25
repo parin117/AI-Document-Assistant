@@ -14,7 +14,7 @@
 ### What is AI Document Assistant?
 **AI Document Assistant** is like having a smart assistant that can read your PDF documents and answer questions about them. Imagine you have a 100-page PDF report, and instead of reading it yourself, you can just ask questions like "What are the main findings?" or "Summarize chapter 3" and get instant answers.
 
-### How Does It Work? (In Plain English)
+### How Does It Work? (In simple words)
 
 1. **You Upload Documents**: You give AI Document Assistant(DocuChat) your PDF files (like research papers, reports, or scanned documents).
 
